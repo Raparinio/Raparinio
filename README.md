@@ -1,9 +1,8 @@
 <h1>Hi! 👋
 My name is Pawel 🤓, I am 19 years old. I am mainly interested in new technologies, and recently I started learning Fornt End Development.</h1>
 
-- 👨🏼‍💻I am currently learning HTML 5, CSS 3, JS.
-- 👨🏼‍🎓I am planning to study computer science in the field of programming.
-- 👷🏼I am currently working as a warehouseman.
+- 👨🏼‍💻I'm currently learning HTML 5, CSS 3, JS.
+- 👨🏼‍🎓I'm studying computer science in the field of programming.
   
 </h2>
 
