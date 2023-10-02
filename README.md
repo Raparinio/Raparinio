@@ -1,5 +1,5 @@
 <h1>Hi! 👋
-My name is Pawel 🤓, I am 18 years old. I am mainly interested in new technologies, and recently I started learning Fornt End Development.</h1>
+My name is Pawel 🤓, I am 19 years old. I am mainly interested in new technologies, and recently I started learning Fornt End Development.</h1>
 
 - 👨🏼‍💻I am currently learning HTML 5, CSS 3, JS.
 - 👨🏼‍🎓I am planning to study computer science in the field of programming.
